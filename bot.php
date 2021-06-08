@@ -57,7 +57,7 @@ if ($text == "/start") {
                 'chat_id' =>$chat_id,
                 'text' =>"***$START_MESSAGE
 
-Use*** `/bin xxxxx` ***to check bin on bin-su.***",
+Welcome To AB Checker Bot ❤️. Use*** `/bin xxxxx` ***To Check Bin🔥✨. Join @AyushBots For Updates And More Awesome Bots📊***",
  'parse_mode'=>'MarkDown',
             
         ]);
@@ -88,6 +88,8 @@ bot('sendmessage', [
 ➤ Cᴏᴜɴᴛʀʏ : $country
 
 ➤ Cʀᴇᴅɪᴛ/Dᴇʙɪᴛ : $type
+
+Join @AyushBots
 
 🔺BIN CHECKED FROM DATABASE OF BIN-SU🔻***",
 'parse_mode'=>"MarkDown",
