@@ -57,7 +57,7 @@ if ($text == "/start") {
                 'chat_id' =>$chat_id,
                 'text' =>"***$START_MESSAGE
 
-Welcome To AB Checker Bot ❤️. Use*** `/bin xxxxx` ***To Check Bin🔥✨. Join @AyushBots For Updates And More Awesome Bots📊***",
+ Use*** `/bin xxxxx` ***To Check Is Your Bin Valid Or Not.***",
  'parse_mode'=>'MarkDown',
             
         ]);
